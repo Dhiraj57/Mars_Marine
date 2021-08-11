@@ -1,2 +1,2 @@
 # Mars_Marine
-Top down wave based shooter
+Top down - Wave based shooter
